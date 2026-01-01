@@ -1,0 +1,1 @@
+World Happiness Report – Predictive Analysis is a machine learning project that analyzes global happiness data to identify key influencing factors. It uses regression, classification, and clustering techniques to predict happiness scores, categorize countries, and uncover meaningful patterns through data visualization.
